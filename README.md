@@ -1,4 +1,4 @@
-<img src="me.jpg" alt="Irtaza Hassan" width="200" style="border-radius: 50%;" />
+<img src="me_imresizer.jpg" alt="Irtaza Hassan" width="200" style="border-radius: 50%;" />
 
 # 👋 Hi, I'm Irtaza Hassan  
 🎓 Final Year Computer Science Student | 💻 Unity Game Developer  
