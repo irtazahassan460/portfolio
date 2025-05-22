@@ -1,3 +1,4 @@
+<img src="me.jpg" alt="Irtaza Hassan" width="200"/>
 
 # 👋 Hi, I'm Irtaza Hassan
 
