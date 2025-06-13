@@ -2,18 +2,3 @@ title: Irtaza Hassan
 description: Unity Game Developer | Computer Science Graduate
 logo: /assets/img/Irtaza.png
 theme: jekyll-theme-minimal
-sass:
-  style: compressed
-
-# Use custom stylesheet
-remote_theme: pages-themes/minimal@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
-# Add custom stylesheet
-defaults:
-  -
-    scope:
-      path: ""
-    values:
-      styles: ["/assets/css/style.css"]
