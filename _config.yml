@@ -1,5 +1,8 @@
 title: Irtaza Hassan
-logo: /assets/img/headshot_circle.png
+logo: <img src="me_imresizer.jpg" alt="Irtaza Hassan"
+     width="200" height="200"
+     style="border-radius: 50%; object-fit: cover;" />
+
 description: I'm a passionate Unity Game Developer and a Computer Science graduate with a strong foundation in programming, problem-solving, and interactive design. I specialize in building engaging and optimized gameplay experiences using Unity and C#. From prototyping fun mechanics to managing full gameplay loops,I enjoy every step of the development process.
 show_downloads: true
 theme: jekyll-theme-minimal
