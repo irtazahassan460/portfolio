@@ -2,3 +2,10 @@ title: Irtaza Hassan
 description: Unity Game Developer | Computer Science Graduate
 logo: /assets/img/Irtaza.png
 theme: jekyll-theme-minimal
+contacts:
+  - name: "Email"
+    link: "mailto:irtazahassan460@gmail.com"
+  - name: "LinkedIn"
+    link: "https://linkedin.com/in/irtaza-hassan-236b40251"
+  - name: "Unity Learn"
+    link: "https://learn.unity.com/u/650f5556edbc2a42ab45ffd0"
