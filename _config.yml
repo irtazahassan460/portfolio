@@ -1,16 +1,7 @@
 title: Irtaza Hassan
-logo: <img src="me_imresizer.jpg" alt="Irtaza Hassan"
-     width="200" height="200"
-     style="border-radius: 50%; object-fit: cover;" />
-description: I'm a passionate Unity Game Developer and a Computer Science graduate with a strong foundation in programming, problem-solving, and interactive design. I specialize in building engaging and optimized gameplay experiences using Unity and C#. From prototyping fun mechanics to managing full gameplay loops, I enjoy every step of the development process.
+logo: /assets/img/headshot_circle.png
+description: I'm a passionate Unity Game Developer and a Computer Science graduate with a strong foundation in programming, problem-solving, and interactive design. 
+I specialize in building engaging and optimized gameplay experiences using Unity and C#. From prototyping fun mechanics to managing full gameplay loops,
+I enjoy every step of the development process.
+show_downloads: true
 theme: jekyll-theme-minimal
-
-
-
-#  Contact
-
-📧 **Email:** [irtazahassan460@gmail.com](mailto:irtazahassan460@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/irtaza-hassan-236b40251](https://linkedin.com/in/irtaza-hassan-236b40251)
-
-🎮 **Unity Learn:** [learn.unity.com/u/650f5556edbc2a42ab45ffd0](https://learn.unity.com/u/650f5556edbc2a42ab45ffd0)
