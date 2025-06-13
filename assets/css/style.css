@@ -1,9 +1,7 @@
-img {
+img[alt="Site logo"] {
   border-radius: 50%;
-  width: 150px;      /* Adjust as needed */
-  height: 150px;     /* Optional: force square shape */
-  object-fit: cover; /* Keeps it nicely cropped */
-  display: block;
-  margin: 0 auto;    /* Center it horizontally */
+  width: 150px;
+  height: 150px;
+  object-fit: cover;
+  /* Removed margin and display block to keep default position */
 }
-
