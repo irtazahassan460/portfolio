@@ -1,21 +1,4 @@
-<img src="me_imresizer.jpg" alt="Irtaza Hassan"
-     width="200" height="200"
-     style="border-radius: 50%; object-fit: cover;" />
 
-
-
-
-# Hi, I'm Irtaza Hassan
-
-🎓 Computer Science Graduate | 💻 **Unity Game Developer**
-
-##  Contact
-
-📧 **Email:** [irtazahassan460@gmail.com](mailto:irtazahassan460@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/irtaza-hassan-236b40251](https://linkedin.com/in/irtaza-hassan-236b40251)
-
-🎮 **Unity Learn:** [learn.unity.com/u/650f5556edbc2a42ab45ffd0](https://learn.unity.com/u/650f5556edbc2a42ab45ffd0)
 
 ##  About Me
 
