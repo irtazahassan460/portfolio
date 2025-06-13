@@ -3,5 +3,8 @@ img[alt="Site logo"] {
   width: 150px;
   height: 150px;
   object-fit: cover;
-  /* Removed margin and display block to keep default position */
+  display: inline;
+  float: left;
+  margin-right: 10px;
+  margin-top: 10px;
 }
