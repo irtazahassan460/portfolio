@@ -1,40 +1,78 @@
+## About Me
+
+My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning passion for bringing imaginative worlds to life. From my initial forays into game design, I've been captivated by the power of Unity and C# to transform ideas into interactive realities. My current projects, like the "Flappy Bird Game" and "Plane Game," have been invaluable in honing my skills, and I'm now eager to contribute to larger, more ambitious projects.
+
+## Contact
+
+  * **Phone:** 0303 7872480
+  * **Email:** irtazahassan460@gmail.com
+  * **Address:** Chak \# 2/10-L Harappa
+  * **LinkedIn:** [linkedin.com/in/irtaza-hassan-236b40251](https://www.google.com/search?q=https://www.linkedin.com/in/irtaza-hassan-236b40251)
+
+## Education
+
+### BS Computer Science
+
+*University of Sahiwal*
+2021-2025
+
+### FSc
+
+*Punjab College Sahiwal*
+2018-2021
+
+### Matric
+
+*HTM Secondary School*
+2016-2018
+
+## Skills
+
+### Game Development
+
+  * C#
+  * Unity
+
+### MS Office
+
+  * Word
+  * Excel
+  * PowerPoint
+  * Inpage
+
+## Experience
+
+### Game Development
+
+2023-Present
+
+### Royal Educational Institute
+
+*Computer Operator*
+2020-2021
 
 
-##  About Me
 
-I’m a Unity Game Developer passionate about creating immersive and engaging game experiences. 
+## Projects
 
-###  Education
+  * Flappy Bird Game
+  * Clicky Crates
+  * Plane Game
 
-**BSCS** – University of Sahiwal
+-----
+##  Certifications
 
-### Tech Stack
-
-* **Languages:**
-  C#
-* **Tools:**
-  Unity, GitHub
-* **Interests:**
-  Game Development
-
-### Skills
-
-* Unity
-* C#
-
-###  Certifications
-
-* **Unity Essentials**
+###  **Unity Essentials**
   🎓 Source: Unity Learn
   
-  🔗 [View Certificate](https://www.credly.com/badges/3a469635-b457-4eb8-9ee4-fe522a91b6e1/public_url)
+  View Certificate: [View Certificate](https://www.credly.com/badges/3a469635-b457-4eb8-9ee4-fe522a91b6e1/public_url)
 
-* **Unity Junior Programmer**
+### **Unity Junior Programmer**
   🎓 Source: Unity Learn
   
-  🔗 [View Certificate](https://www.credly.com/badges/2c368984-ce37-428d-849f-cd3c04336006/public_url)
+  View Certificate: [View Certificate](https://www.credly.com/badges/2c368984-ce37-428d-849f-cd3c04336006/public_url)
 
-* **Success Mindset**
+### **Success Mindset**
   🎓 Source: HP Life
   
   🔗 [View Certificate](https://www.life-global.org/certificate/4ccb21b6-72eb-41b8-bd45-2ebc9c4932aa)
