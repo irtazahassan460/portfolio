@@ -2,12 +2,16 @@
 
 My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning passion for bringing imaginative worlds to life. From my initial forays into game design, I've been captivated by the power of Unity and C# to transform ideas into interactive realities. My current projects, like the "Flappy Bird Game" and "Plane Game," have been invaluable in honing my skills, and I'm now eager to contribute to larger, more ambitious projects.
 
+---
+
 ## Contact
 
   * **Phone:** 0303 7872480
   * **Email:** irtazahassan460@gmail.com
   * **Address:** Chak \# 2/10-L Harappa
   * **LinkedIn:** [linkedin.com/in/irtaza-hassan-236b40251](https://www.google.com/search?q=https://www.linkedin.com/in/irtaza-hassan-236b40251)
+
+---
 
 ## Education
 
@@ -26,6 +30,8 @@ My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning p
 *HTM Secondary School*
 2016-2018
 
+---
+
 ## Skills
 
 ### Game Development
@@ -40,6 +46,8 @@ My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning p
   * PowerPoint
   * Inpage
 
+---
+
 ## Experience
 
 ### Game Development
@@ -51,7 +59,7 @@ My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning p
 *Computer Operator*
 2020-2021
 
-
+---
 
 ## Projects
 
@@ -59,7 +67,8 @@ My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning p
   * Clicky Crates
   * Plane Game
 
------
+---
+
 ##  Certifications
 
 ###  **Unity Essentials**
