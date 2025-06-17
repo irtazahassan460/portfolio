@@ -65,17 +65,17 @@ My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning p
 ###  **Unity Essentials**
   🎓 Source: Unity Learn
   
-  View Certificate: [View Certificate](https://www.credly.com/badges/3a469635-b457-4eb8-9ee4-fe522a91b6e1/public_url)
+  Click to: [View Certificate](https://www.credly.com/badges/3a469635-b457-4eb8-9ee4-fe522a91b6e1/public_url)
 
 ### **Unity Junior Programmer**
   🎓 Source: Unity Learn
   
-  View Certificate: [View Certificate](https://www.credly.com/badges/2c368984-ce37-428d-849f-cd3c04336006/public_url)
+  Click to: [View Certificate](https://www.credly.com/badges/2c368984-ce37-428d-849f-cd3c04336006/public_url)
 
 ### **Success Mindset**
   🎓 Source: HP Life
   
-  🔗 [View Certificate](https://www.life-global.org/certificate/4ccb21b6-72eb-41b8-bd45-2ebc9c4932aa)
+  Click to: [View Certificate](https://www.life-global.org/certificate/4ccb21b6-72eb-41b8-bd45-2ebc9c4932aa)
 
 ---
 
