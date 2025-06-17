@@ -6,10 +6,9 @@ My name is Irtaza Hassan and I'm a budding Unity Game Developer with a burning p
 
 ## Contact
 
-  * **Phone:** 0303 7872480
-  * **Email:** irtazahassan460@gmail.com
-  * **Address:** Chak \# 2/10-L Harappa
-  * **LinkedIn:** [linkedin.com/in/irtaza-hassan-236b40251](https://www.google.com/search?q=https://www.linkedin.com/in/irtaza-hassan-236b40251)
+* **Phone:**         [0303 7872480](https://wa.me/923037872480)
+* **Email:**         [irtazahassan460@gmail.com](mailto:irtazahassan460@gmail.com)
+* **LinkedIn:**      [linkedin.com/in/irtaza-hassan-236b40251](https://www.google.com/search?q=https://www.linkedin.com/in/irtaza-hassan-236b40251)
 
 ---
 
