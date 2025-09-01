@@ -1,11 +1,12 @@
 <style>
 h2, h3 {
-  background-color: #f2f2f2;   /* light grey background */
+  background-color: #e0e0e0;   /* darker grey */
   color: #2C3E50;              /* dark text */
-  padding: 8px 12px;           /* spacing around text */
-  border-radius: 6px;          /* rounded corners */
-  display: inline-block;       /* keeps background tight around text */
-  margin-top: 20px;            /* spacing from top */
+  padding: 12px 16px;          /* spacing inside */
+  border-radius: 4px;          /* slightly rounded */
+  width: 100%;                 /* full width background */
+  display: block;              /* block element for full line */
+  margin-top: 25px;            /* spacing from previous section */
 }
 </style>
 
